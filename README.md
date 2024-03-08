@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmad
-- ⚙️ Graphic Designer adn aspiring AI Engineer
+- ⚙️ AI Engineer & Full Stack Development
 - 🌱 Currently learning AI and Machine Learning on Python
-- ⚒️ I’m looking to collaborate on open source Machine Learning Projects in Java
 - Twitter: @ahmadjamous_
 - Instagram: @ahmadjamous_
 
