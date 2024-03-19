@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ahmad
 - ⚙️ AI Engineer & Full Stack Development
-- 🌱 Currently learning AI and Machine Learning on Python
+- 🌱 Currently learning AI and Machine Learning in Python
+- Languages: Python, HTML, CSS, JavaScript, Java, C++
 - Twitter: @ahmadjamous_
 - Instagram: @ahmadjamous_
 
